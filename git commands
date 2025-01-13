@@ -13,3 +13,6 @@ git push -u origin main
 git remote add origin https://github.com/Yoel-con-Y/Odoo16.git
 git branch -M main
 git push -u origin main
+
+LOCALIZACIÓN
+/github/Odoo16
